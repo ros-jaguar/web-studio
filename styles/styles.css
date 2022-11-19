@@ -1,0 +1,247 @@
+body {
+  width: 1600px;
+  height: 2346px;
+  background: #ffffff;
+}
+
+header {
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+
+.top_line_bg {
+  width: 1600px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+}
+
+.line {
+  width: 1600px;
+  height: 0px;
+  left: 0px;
+  top: 80px;
+  border: 1px solid #ececec;
+}
+
+.Web-Studio {
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.Studio {
+  font-family: 'Oleo Script';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 36px;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+.Menu-Nav {
+  width: 281px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+}
+.studia {
+  width: 45px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.portfolio {
+  width: 72px;
+  height: 16px;
+  left: 548px;
+  top: 32px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.contakty {
+  width: 64px;
+  height: 16px;
+  left: 670px;
+  top: 32px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+.hover {
+  width: 135px;
+  height: 16px;
+  left: 1078px;
+  top: 32px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #2196f3;
+}
+aside {
+  width: 1600px;
+  height: 600px;
+  left: 0px;
+  top: 80px;
+  background: #2f303a;
+}
+h1 {
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+button {
+  position: absolute;
+  visibility: hidden;
+  width: 216px;
+  height: 50px;
+  left: 692px;
+  top: 430px;
+  radius: 4px;
+}
+.block-future {
+  width: 1170px;
+  height: 98px;
+  left: 215px;
+  top: 774px;
+}
+.Feature-1 {
+  width: 270px;
+  height: 98px;
+  left: 215px;
+  top: 774px;
+}
+.Feature-2 {
+  width: 270px;
+  height: 74px;
+  left: 515px;
+  top: 774px;
+}
+.Feature-3 {
+  width: 270px;
+  height: 74px;
+  left: 815px;
+  top: 774px;
+}
+.Feature-4 {
+  width: 270px;
+  height: 98px;
+  left: 1115px;
+  top: 774px;
+}
+h3 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.what-work {
+  width: 1170px;
+  height: 386px;
+  left: 215px;
+  top: 966px;
+}
+h2 {
+  width: 366px;
+  height: 42px;
+  left: 617px;
+  top: 966px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.box-1 {
+  width: 370px;
+  height: 294px;
+  left: 215px;
+  top: 1058px;
+  background: url(close-up-image-programer-working-his-desk-office_1098-18707.jpg);
+  mix-blend-mode: normal;
+}
+.box-2 {
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1058px;
+  background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);
+}
+.box-3 {
+  width: 370px;
+  height: 294px;
+  left: 1015px;
+  top: 1058px;
+  background: url(creative-artist-web-design-with-working-colour-selection-graphic-tablet_35674-1119.jpg);
+}
+.our-team {
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1446px;
+  background: #f5f4fa;
+}
+.box-our-team {
+  width: 264px;
+  height: 42px;
+  left: 668px;
+  top: 1540px;
+}
